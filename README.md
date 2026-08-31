@@ -1,4 +1,4 @@
-# codedex-exercises<div align="center">
+<div align="center">
 <h1> ⤷ Exercícios do Codédex 🖥️ </h1>
 <p>
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
