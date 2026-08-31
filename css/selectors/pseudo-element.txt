@@ -1,0 +1,19 @@
+Pseudo-elements use two colons :: followed by its name.
+selected-element::pseudo-element {
+  /* CSS styles here */
+}
+
+For example, if we wanted to include an emoji before or after some paragraph text, but we didn't want to include it in our HTML:
+p::after {
+  content: "📂";
+}
+
+::first-letter & ::first-line
+p::first-letter {/* CSS styles here */}
+
+::before & ::after
+selected-element::before {
+  content:
+    /* CSS styles here */
+}
+
